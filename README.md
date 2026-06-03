@@ -51,7 +51,7 @@ Passionate about building innovative web applications, solving real-world proble
 - Developed a platform to showcase local talents in various categories such as dance, music, art, and photography.
 - Implemented participant registration, talent submission, and event information features.
 - Designed an interactive and user-friendly interface for easy navigation.
-- Technologies: HTML, CSS, JavaScript.
+- Technologies: Flutter, Android Studio.
 
 ### 🌊 Potential Fishing Zone Prediction System
 - Developed a system to provide information about potential fishing zones using ocean-related data.
