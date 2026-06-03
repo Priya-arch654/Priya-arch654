@@ -47,18 +47,22 @@ Passionate about building innovative web applications, solving real-world proble
 
 ## 📂 Projects
 
+### 🎭 Local Talent Showcase App
+- Developed a platform to showcase local talents in various categories such as dance, music, art, and photography.
+- Implemented participant registration, talent submission, and event information features.
+- Designed an interactive and user-friendly interface for easy navigation.
+- Technologies: HTML, CSS, JavaScript.
+
+### 🌊 Potential Fishing Zone Prediction System
+- Developed a system to provide information about potential fishing zones using ocean-related data.
+- Designed to help fishermen identify suitable fishing locations efficiently.
+- Focused on data visualization and user-friendly information presentation.
+- Technologies: Python, Machine Learning, Data Analysis.
+
 ### 🎉 College Event Management System
-- Developed a web-based system for managing college events.
-- Features include student registration, event participation, admin management, and feedback collection.
-- Technologies: HTML, CSS, PHP, MySQL.
-
-### 📝 Task Management Application
-- Created a desktop application for managing daily tasks.
-- Features include task creation, updating, deletion, and database storage.
-- Technologies: Python, Tkinter, SQLite.
-
-### 🏋️ Gym Membership Management System
-- Built a system to manage memberships, attendance, and billing.
+- Developed a web-based system for managing college events and registrations.
+- Features include student registration, event participation, schedule management, and feedback collection.
+- Implemented admin functionalities for managing events and participants.
 - Technologies: HTML, CSS, PHP, MySQL.
 
 ---
