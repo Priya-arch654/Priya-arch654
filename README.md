@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hari Priya</h1>
+<h1 align="center">Hi, I'm Hari Priya A</h1>
 
 <h3 align="center">Computer Science Engineering Student | Web Developer | ServiceNow Learner</h3>
 
